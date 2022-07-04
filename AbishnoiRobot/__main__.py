@@ -104,12 +104,12 @@ buttons = [
     ],
 ]
 
-AbishnoiRobot_IMG = "https://telegra.ph/file/05be8fd25f6463416ccf5.jpg"
+AbishnoiRobot_IMG = "https://telegra.ph/file/690e60a04a67001592731.mp4"
 
 HELP_STRINGS = f"""
-ᴀʙɢ ✘ ʀᴏʙᴏᴛ *ᴇxᴄʟᴜsɪᴠᴇ ꜰᴇᴀᴛᴜʀᴇs*\n*» ᴄʜᴇᴄᴋᴏᴜᴛ ᴀʟʟ ᴛʜᴇ ᴄᴏᴍᴍᴀɴᴅs*\n*» ᴀʟʟ ᴏꜰ ᴍʏ ᴄᴏᴍᴍᴀɴᴅs ᴄᴀɴ ʙᴇ ᴜsᴇᴅ ᴡɪᴛʜ / ᴏʀ !*\n*» ɪꜰ ʏᴏᴜ ɢᴏᴛ ᴀɴʏ ɪssᴜᴇ ᴏʀ ʙᴜɢ ɪɴ ᴀɴʏ ᴄᴏᴍᴍᴀɴᴅ ᴘʟᴇᴀsᴇ ʀᴇᴘᴏʀᴛ ɪᴛ ᴛᴏ @{SUPPORT_CHAT}*\n\n*ㅤㅤㅤㅤㅤㅤ» ᴍᴀɪɴ ᴄᴏᴍᴍᴀɴᴅꜱ «*\n\n➲ /donate : *sᴜᴘᴘᴏʀᴛ ᴍᴇ ʙʏ ᴅᴏɴᴀᴛɪɴɢ ꜰᴏʀ ᴍʏ ʜᴀʀᴅᴡᴏʀᴋ​.*\n➲ /help  : *ᴀᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅꜱ ꜱᴇᴄᴛɪᴏɴ.*\n𝄠 /mhelp :*ᴍᴜsɪᴄ ʙᴏᴛ ʜᴇʟᴘ .*"""
+ᴄʀɪsᴛɪᴀɴᴏ ʀᴏɴᴀʟᴅᴏ ✘ ʀᴏʙᴏᴛ *ᴇxᴄʟᴜsɪᴠᴇ ꜰᴇᴀᴛᴜʀᴇs*\n*» ᴄʜᴇᴄᴋᴏᴜᴛ ᴀʟʟ ᴛʜᴇ ᴄᴏᴍᴍᴀɴᴅs*\n*» ᴀʟʟ ᴏꜰ ᴍʏ ᴄᴏᴍᴍᴀɴᴅs ᴄᴀɴ ʙᴇ ᴜsᴇᴅ ᴡɪᴛʜ / ᴏʀ !*\n*» ɪꜰ ʏᴏᴜ ɢᴏᴛ ᴀɴʏ ɪssᴜᴇ ᴏʀ ʙᴜɢ ɪɴ ᴀɴʏ ᴄᴏᴍᴍᴀɴᴅ ᴘʟᴇᴀsᴇ ʀᴇᴘᴏʀᴛ ɪᴛ ᴛᴏ @{SUPPORT_CHAT}*\n\n*ㅤㅤㅤㅤㅤㅤ» ᴍᴀɪɴ ᴄᴏᴍᴍᴀɴᴅꜱ «*\n\n➲ /donate : *sᴜᴘᴘᴏʀᴛ ᴍᴇ ʙʏ ᴅᴏɴᴀᴛɪɴɢ ꜰᴏʀ ᴍʏ ʜᴀʀᴅᴡᴏʀᴋ​.*\n➲ /help  : *ᴀᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅꜱ ꜱᴇᴄᴛɪᴏɴ.*\n𝄠 /mhelp :*ᴍᴜsɪᴄ ʙᴏᴛ ʜᴇʟᴘ .*"""
 
-DONATE_STRING = """[ᗩ𝖡𝖨𝖲𝖧𝖭𝖮𝖨](https://t.me/Abishnoi1M)"""
+DONATE_STRING = [𝙎𝙐𝙍𝙔𝘼𝘼 𝙆𝙐𝙈𝘼𝙍](https://t.me/Suryaakumar)"""
 
 IMPORTED = {}
 MIGRATEABLE = []
@@ -299,7 +299,7 @@ def help_button(update, context):
         if mod_match:
             module = mod_match.group(1)
             text = (
-                "*ᴘᴏᴡᴇʀᴇᴅ ʙʏ ©* [ᴀʙɪsʜɴᴏɪ](https://t.me/Abishnoi1M):\n» *ᴀᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs ꜰᴏʀ​​* *{}* :\n".format(
+                "*ᴘᴏᴡᴇʀᴇᴅ ʙʏ ©* [Suryaakumar](https://t.me/Suryaakumar):\n» *ᴀᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs ꜰᴏʀ​​* *{}* :\n".format(
                     HELPABLE[module].__mod_name__
                 )
                 + HELPABLE[module].__help__
@@ -382,7 +382,7 @@ def Abishnoi_about_callback(update: Update, context: CallbackContext):
                         ),
                         InlineKeyboardButton(
                             text="sᴏᴜʀᴄᴇ",
-                            url="https://github.com/KingAbishnoi/AbishnoiRobot",
+                            url="https://github.com/skjr7/AbishnoiRobot",
                         ),
                     ],
                     [
@@ -408,10 +408,10 @@ def Abishnoi_about_callback(update: Update, context: CallbackContext):
                     ],
                     [
                         InlineKeyboardButton(
-                            text="ᴅᴇᴠᴇʟᴏᴩᴇʀ", url="https://t.me/Abishnoi1M"
+                            text="ᴅᴇᴠᴇʟᴏᴩᴇʀ", url="https://t.me/Suryaakumar"
                         ),
                         InlineKeyboardButton(
-                            text="ɢɪᴛʜᴜʙ", url="https://github.com/KingAbishnoi"
+                            text="ɢɪᴛʜᴜʙ", url="https://github.com/skjr7"
                         ),
                     ],
                     [
