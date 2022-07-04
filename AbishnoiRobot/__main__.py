@@ -107,7 +107,7 @@ AbishnoiRobot_IMG = "https://telegra.ph/file/40f7da0c6f0dd5915de99.jpg"
 HELP_STRINGS = f"""
 ᴄʀɪsᴛɪᴀɴᴏ ʀᴏɴᴀʟᴅᴏ ʀᴏʙᴏᴛ *ᴇxᴄʟᴜsɪᴠᴇ ꜰᴇᴀᴛᴜʀᴇs*\n*» ᴄʜᴇᴄᴋᴏᴜᴛ ᴀʟʟ ᴛʜᴇ ᴄᴏᴍᴍᴀɴᴅs*\n*» ᴀʟʟ ᴏꜰ ᴍʏ ᴄᴏᴍᴍᴀɴᴅs ᴄᴀɴ ʙᴇ ᴜsᴇᴅ ᴡɪᴛʜ / ᴏʀ !*\n*» ɪꜰ ʏᴏᴜ ɢᴏᴛ ᴀɴʏ ɪssᴜᴇ ᴏʀ ʙᴜɢ ɪɴ ᴀɴʏ ᴄᴏᴍᴍᴀɴᴅ ᴘʟᴇᴀsᴇ ʀᴇᴘᴏʀᴛ ɪᴛ ᴛᴏ @{SUPPORT_CHAT}*\n\n*ㅤㅤㅤㅤㅤㅤ» ᴍᴀɪɴ ᴄᴏᴍᴍᴀɴᴅꜱ «*\n\n➲ /donate : *sᴜᴘᴘᴏʀᴛ ᴍᴇ ʙʏ ᴅᴏɴᴀᴛɪɴɢ ꜰᴏʀ ᴍʏ ʜᴀʀᴅᴡᴏʀᴋ​.*\n➲ /help  : *ᴀᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅꜱ ꜱᴇᴄᴛɪᴏɴ.*\n𝄠 /mhelp :*ᴍᴜsɪᴄ ʙᴏᴛ ʜᴇʟᴘ .*"""
 
-DONATE_STRING = [𝙎𝙐𝙍𝙔𝘼𝘼 𝙆𝙐𝙈𝘼𝙍](https://t.me/Suryaakumar)"""
+DONATE_STRING = """[𝙎𝙐𝙍𝙔𝘼𝘼 𝙆𝙐𝙈𝘼𝙍](https://t.me/Suryaakumar)"""
 
 IMPORTED = {}
 MIGRATEABLE = []
